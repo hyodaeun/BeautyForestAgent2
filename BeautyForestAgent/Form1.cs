@@ -47,6 +47,7 @@ namespace BeautyForestAgent
         {
             VisibleChange(true);
         }
+
     }
 
 }
